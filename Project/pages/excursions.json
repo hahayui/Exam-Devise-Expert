@@ -1,0 +1,169 @@
+{
+    "type": "moderate",
+    "moderateActivity": [
+        {
+            "name": "CRUISE COSTA RICA",
+            "img1": "../images/excursions/costa_rica_1.png",
+            "operatorCostDates": "AHI- from $3,495 USD FEB 23 - MAR 5, 2018",
+            "text1": "Begin with one night in cosmopolitan San José, then spend two days experiencing the simple beauty of the cloud forest en route to Arenal National Park. Dominated by the majestic Arenal Volcano, the park is home to colorful parrots and quetzals. Travel to Caldera and board the  elegant Wind Star for a seven-night cruise. Set sail for San Juan del Sur, an idyllic fishing village in Nicaragua and your gateway to lovely Masaya Volcano National Park. Return to Costa Rica at beautiful Playa del Coco, then to Quepos, the perfect base for exploring the verdant rain forest of Manuel Antonio National Park; Bahia Drake, with its trails leading to Corcovado National Park; the stunning forest in the Curu Game Reserve; and the sun-drenched shores of Tortuga Island."
+    },
+        {
+            "name": "CRUISE THE PANAMA CANAL",
+            "img1": "../images/excursions/panama_canal_cruise_1.png",
+            "operatorCostDates": "AHI- from $3,795 USD FEB 23 - MAR 6, 2018",
+            "text1": "Price includes air from most major airports and $500 per person ship board credit! Set sail aboard the six-star Crystal Symphony from Miami, Florida, for Tortola, British Virgin Islands. Admire the rugged coast, towering mountains and lovely beaches of St. Barths. Explore Marigot, St. Martin’s charming market town then enjoy a day at leisure at sea before arriving in cultural Aruba. Marvel at one of the world’s most impressive feats of engineering as the ship travels through the six locks of the Panama Canal. Finally, cruise the waters of the Pacific Ocean to Caldera, Costa Rica. This exciting travel adventure combines some of the loveliest ports of the Caribbean with one of the world’s most luxurious cruise ships, ensuring the highest level of comfort and elegance while providing the unforgettable experience of traveling through the Panama Canal."
+    },
+        {
+            "name": "CRUISE THE CANALS OF HOLLAND AND BELGIUM",
+            "operatorCostDates": "AHI- from $2,395 USD APR 9-17, 2018",
+            "img1": "../images/excursions/cruise_the_canals_of_holland_and_belgium_1.png",
+            "text1": "There is no better way to experience the beauty, history and culture of Holland and Belgium than by cruising their legendary waterways. Admire the charm of the port city of Antwerp, the diamond capital of the world, and the amazing architecture and art of Bruges. In Holland, learn about the Delta Works’ complex Storm Surge Barriers on Neeltje Jans Island and explore the renowned Zeeland coast. Visit Delft, then The Hague and feel the reverberations of political history. Step into the historic town of Deventer before concluding in Amsterdam, a beguiling city of canals and contrasts. "
+    }
+        ,
+        {
+            "name": "SAXONY CRUISE ON THE ELBE RIVER",
+            "operatorCostDates": "AHI - from $2,495 USD APR 15-23, 2018",
+            "img1": "../images/excursions/saxony_cruise_on_the_elbe_river_1.png",
+            "text1": "Berlin is the perfect prelude for a journey into one of Europe’s most majestic and historic regions. Explore this vibrant city, then embark on a cruise down the lovely Elbe River to visit the provinces of Brandenburg and Saxony. Discover regal Potsdam, the birthplace of modern Germany; Wittenberg, the epicenter of the Protestant Reformation; and Renaissance Torgau. Delight in charming Meissen, home of fine porcelain, and exquisite Dresden, the Florence of the Elbe. Sail through the breathtaking scenery of the Saxon Alps. Your voyage concludes in Prague, Eastern Europe’s City of One Hundred Spires that has remained virtually unchanged for centuries."
+    },
+        {
+            "name": "CUENCA, ECUADOR",
+            "operatorCostDates": "AHI - $2,995 USD APR 30 - MAY 30, 2018",
+            "img1": "../images/excursions/cuenca_ecuador_1.png",
+            "text1": "AHI Travel is pleased to announce a new concept in educational travel: living abroad. This first-of-its kind opportunity features 31 days amidst the old world beauty of Cuenca, Ecuador, one of South America’s most alluring and captivating colonial cities. It has been named by International Living Magazine as The World’s Top Retirement Haven.   Enjoy four weeks’ accommodations in a fully furnished, modernly appointed apartment in the colonial center of Cuenca, including cable television and broadband Internet access. Learn with your personal Lifestyle Guide and instructor from the Simon Bolivar Language School, providing private language instruction and immersion in Cuenca’s culture, people, history, art and cuisine four days each week. Stay connected with friends, family and AHI Travel staff with a complimentary Ecuadorean cell phone. Experience life abroad, equip yourself to live independently in Latin America, learn about similar opportunities around the world."
+    },
+        {
+            "name": "MEDITERRANEAN MUSIC CRUISE: A VOYAGE FROM VENICE TO SEVILLE",
+            "operatorCostDates": "Travel Dynamics - from $9,995 USD MAY 3-16, 2018",
+            "img1": "../images/excursions/mediterranean_music_cruise_1.png",
+            "text1": "On this classical music cruise in the Mediterranean, a group of superb musicians led by the legendary Sir James Galway will perform in magnificent historical settings – from ancient amphitheaters to Renaissance palaces. The small size of the audience and the accessibility of the artists offer a truly unparalleled experience. Beginning in Venice, birthplace of Vivaldi, set sail aboard the all-suite, 114-guest Corinthian II for the medieval hill-town of Macerata. Cruise among the idyllic Croatian archipelago for Split, Dubrovnik, and Kotor, see the dazzling Byzantine-Norman-Arabic mosaics of Palermo, and tour the ancient ruins of Carthage. Wandering among the architectural fantasies of Gaudí in Barcelona, the medieval alleyways of Valencia, and the majestic Andalusian monuments of Seville, you’ll see that – true to Goethe’s words, “architecture is frozen music.” "
+    },
+        {
+            "name": "PROVENCE AND THE RHÔNE RIVER",
+            "operatorCostDates": "AHI - from $2,395 USD MAY 6-14, 2018",
+            "img1": "../images/excursions/provence_and_the_rhone_river_1.png",
+            "text1": "Discover Provence — a land of colourful sunflowers and fields of lavender, lush vineyards and charming towns and the landscapes that inspired the works of artists van Gogh and Cézanne. From Lyon, set sail to the delightful city of Beaune, famous for the dazzling works of art housed in its Hôtel-Dieu. Visit the stately Abbey at Cluny and the elegant castle and peaceful gardens at Cormartin. Explore the historic traboule passageways of Lyon. Meander along the picturesque streets of Viviers, and immerse yourself in the viticulture of Châteauneuf du Pape. Visit the Roman Amphitheater in Arles, the magnificent Palace of the Popes in Avignon and see the remarkable Pont du Gard aqueduct."
+    },
+        {
+            "name": "AMALFI - THE DIVINE COAST",
+            "operatorCostDates": "AHI - $2,795 USD MAY 25 - JUNE 2, 2018",
+            "img1": "../images/excursions/amalfi_the_divine_coast_1.png",
+            "text1": "Delight in the scenic grandeur of the Amalfi Coast, with its varied architecture and amazing vertical landscape. Nicknamed The Divine Coast, the serpentine Amalfi Drive winds around towering cliffs and sandy coves, past charming villages, brightly coloured villas and cascading flower gardens. During your stay in Vietri sul Mare, venture out to see the town of Ravello with its spectacular 13th-century Villa Rufolo and the dramatic cliffs of Positano, Italy’s most vertical town. Explore the charming seaside resort of Amalfi, and the cliff-top village of Sorrento, overlooking the Bay of Naples. Immerse yourself in the extraordinary beauty and classical antiquity of Capri, the Isle of Dreams. Marvel at the baroque architecture in Naples and the treasures housed in its renowned Museo Archeologico Nazionale. Discover an epoch suspended in time at the fabled ruins of Herculaneum and Pompeii, and see the Temples of Hera and Athena at Paestum. "
+    },
+        {
+            "name": "IRELAND: TRAVEL DUBLIN & THE ARAN ISLANDS CELEBRATING BLOOMSDAY",
+            "operatorCostDates": "Worldwide Quest - $3,295 CDN JUNE 7-16, 2018",
+            "img1": "../images/excursions/ireland_1.png",
+            "text1": "The capital of Irish literature, Dublin has produced more great writers than any other city of its size in the world, including four Nobel Prize winners in the last 80 years. You will spend five nights in Dublin to take full advantage of Bloomsday, the local cultural celebration of James Joyce’s novel Ulysses, in which Leopold Bloom, a Dublin Jew, goes about his life in the city of Dublin on June 16, 1904. The final three nights are spent at the wildly beautiful and mystical Aran Islands, the subject of fable and song for thousands of years. Here, we will make our home in Kilronan village, right beside the pubs and the shops and the music sessions."
+    },
+        {
+            "name": "ADRIATIC SEA: LIFE ALONG THE DALMATIAN COAST ",
+            "operatorCostDates": "Gohagan - from  $3,135 USD JUNE 20-28, 2018",
+            "img1": "../images/excursions/adriatic_sea_1.png",
+            "text1": "Explore the Adriatic Sea’s stunning, island-dappled Dalmatian Coast aboard the exclusively chartered, deluxe M.S. L’Austral, launching in 2011, on this seven-night cruise. Attractively priced shore excursions feature Diocletian’s palace in historic Split; the walled city of Korˇcula, birthplace of Marco Polo; the medieval fortifications of Kotor in Montenegro, one of the world’s newest nations; Dubrovnik’s perfectly restored Gothic and Romanesque quarters; the splendid port of Hvar; and Pula’s great Roman Arena. This comprehensive itinerary includes an exclusive village forum with local residents, a folk music performance and a specially arranged lecture by an expert on Croatian economy and foreign trade. Two-night Venice precruise option offered."
+    },
+        {
+            "name": "DISCOVER NEWFOUNDLAND",
+            "operatorCostDates": "Travel by Design - $2,999 CDN AUG 15-24, 2018",
+            "img1": "../images/excursions/discover_newfoundland_1.png",
+            "text1": "Discover the rich history, cultural community and natural beauty of Newfoundland. The power of the ocean and kitchen parties with local delicacies including moose sausage, partridgeberry jam, jigs dinner, smoked salmon and screech are sure to delight. Visits include Signal Hill, Trinity Bay, the Random Passage film set, Cape Bonavista, Hawthorne Cottage and so much more. Enjoy whale watching, dinner theatre and a traditional “Boil-up” at a Newfoundland home overlooking Conception Bay. The history and beauty of the area and the warmth of the people shine through in this tour.   As no brochure will be mailed for this tour, please call 519-661-2111 or 800-258-6896 ext 85871 for more information."
+    },
+         {
+            "name": "PARIS AND THE VILLAGES AND VINEYARDS OF FRANCE",
+            "operatorCostDates": "AHI - $3,695 USD SEPT 12-22, 2018",
+            "img1": "../images/excursions/paris_and_the_villages_1.png",
+            "text1": "There is no better way to experience the beauty, history and culture of Holland and Belgium than by cruising their legendary waterways. Admire the charm of the port city of Antwerp, the diamond capital of the world, and the amazing architecture and art of Bruges. In Holland, learn about the Delta Works’ complex Storm Surge Barriers on Neeltje Jans Island and explore the renowned Zeeland coast. Visit Delft, then The Hague and feel the reverberations of political history. Step into the historic town of Deventer before concluding in Amsterdam, a beguiling city of canals and contrasts. "
+    }
+
+],
+     "moderatelyActiveActivity": [
+       {
+            "name": "AMAZON RIVER EXPEDITION",
+            "operatorCostDates": "Gohagan - from $3,880 CDN FEB 11-20, 2018 - SOLD OUT! MAR 25 - APR 3, 2011 ADDED DEPARTURE",
+            "img1": "../images/excursions/legends_of_the_nile_1.png",
+            "text1": "Join this unforgettable 10-day journey through the mysterious Amazon River Basin, our planet’s largest rain forest, aboard one of the impeccable Jewels of the Amazon, intimate ships that evoke the 19th century’s Age of Exploration while providing 21st-century amenities. Cruise into remote jungles and black-water rivers, where the number of butterfly species climbs into the thousands, and other species have yet to be classified or even discovered. Led by Peruvian naturalists, seek rare indigenous wildlife along the Amazon’s tributaries and visit local villages. Spend one night in historic Lima, Peru. Continue with Post-Program Option to ancient Incan sites in Cuzco, the Sacred Valley and Machu Picchu."
+    },
+    {
+            "name": "PERU, FEATURING MACHU PICCHU",
+            "operatorCostDates": "AHI - from $3,595 USD MAR 7-17, 2018",
+            "img1": "../images/excursions/peru_featuring_machu_picchu_1.png",
+            "text1": "Nestled in the Andes Mountains, Peru is the land where vast Incan civilizations once flourished and Spanish conquistadors ruled. Enjoy cosmopolitan and colonial Lima, with its historic Plaza Mayor, landmark Cathedral, and prestigious Museum of Archaeology, Anthropology and History. From Cuzco, the former capital, visit the Saycsahuaman temple and Puka Pukara fortress. Marvel at the ruins in mesmerizing Machu Picchu. Journey to the Andean village of Chinchero, with its colourful local market. Enjoy a spectacular rail journey from Cuzco to the beautiful city of Puno on the shore of Lake Titicaca. Cruise to the Floating Island of Los Uros and Isla Taquile for a truly unique experience."
+    },
+    {
+            "name": "DUBAI AND INDIA",
+            "img1": "../images/excursions/dubai_and_india_1.png",
+            "operatorCostDates": "Travel by Design - from $5,368 CDN   MAR 26 - APR 9, 2018. For a balcony stateroom. Includes air from Toronto.",
+            "text1": "Fly direct from Toronto to Abu Dhabi and spend a day in the diverse and cosmopolitan city of Dubai, the jewel in the crown of the United Emirates, then continue for eleven nights aboard Royal Caribbean’s elegant Brilliance of the Seas. From the ancient sites in Muscat to Goa’s palm-fronded beaches and the serene backwaters of Kerela, this tour will  feed your senses. A shore excursion in each port of call is included. As no brochure will be mailed for this trip, please call 519-661-2111 or 800-258-6896 ext 85871 for more information"
+    },
+   {
+            "name": "DUBAI AND INDIA",
+            "img1": "../images/excursions/dubai_and_india_1.png",
+            "operatorCostDates": "Travel by Design - from $5,368 CDN   MAR 26 - APR 9, 2018. For a balcony stateroom. Includes air from Toronto.",
+            "text1": "Fly direct from Toronto to Abu Dhabi and spend a day in the diverse and cosmopolitan city of Dubai, the jewel in the crown of the United Emirates, then continue for eleven nights aboard Royal Caribbean’s elegant Brilliance of the Seas. From the ancient sites in Muscat to Goa’s palm-fronded beaches and the serene backwaters of Kerela, this tour will  feed your senses. A shore excursion in each port of call is included. As no brochure will be mailed for this trip, please call 519-661-2111 or 800-258-6896 ext 85871 for more information"
+    },
+    {
+            "name": "ICELAND: THE LAND OF FIRE AND ICE",
+            "img1": "../images/excursions/iceland_the_land_of_fire_and_ice_1.png",
+            "operatorCostDates": "Gohagan - from $3,935 USD  JULY 9-17, 2018",
+            "text1": "This magical seven-night journey explores the extraordinary landscape — glittering glaciers, towering fjords, spouting geysers and simmering volcanoes — of Iceland, while cruising aboard the deluxe M.S. Le Boreal, launching in 2010. Immerse yourself in ancient Viking heritage and traditional Icelandic life in Isafjördur, Grundarfjördur and Akureyri. Discover abundant birdlife and see world-renowned geological marvels, including legendary Godafoss, “Waterfall of the Gods;” Gullfoss, the “Golden Waterfalls;” majestic Snaefellsjökull glacier, where Jules Verne’s Journey to the Center of the Earth begins; the lava fields of Heimaey Island’s “Fire Mountain.” Reykjavik Pre-Cruise and Greenland Post-Cruise Options are offered."
+    },
+      {
+            "name": "GRAND DANUBE PASSAGE",
+            "img1": "../images/excursions/grand_danube_passage_1.png",
+            "operatorCostDates": "AHI - from $3,895 USD SEPT 10-24, 2018",
+            "text1": "Described by Napoleon as the “king of Europe’s rivers,” the Danube is steeped in beauty, legend and lore. Begin your discovery of its bustling metropolises, picturesque towns and breathtaking countryside in charming Passau, Germany. Travel into Austria and the stunning beauty of the Wachau Valley. Stop in Melk to admire its magnificent Abbey before continuing to the lovely town of Dürnstein and the magical city of Vienna. Drive along the Ringstrasse, view the Houses of Parliament and explore Hofburg Palace, then cruise to Bratislava, Slovak Republic. In Hungary, visit Budapest, the impressive capital, and the delightful towns of Kalocsa and Mohács. Marvel at Belgrade, one of the oldest capitals in Eastern Europe. Enjoy the highlights in Vidin, Bulgaria before journeying to Sofia, known for its striking architecture. Conclude with three nights in Thessaloniki, the capital of Greece’s Macedonian region. "
+    },
+    {
+            "name": "ISLAND LIFE IN ANCIENT GREECE AND TURKEY",
+            "img1": "../images/excursions/island_life_in_ancient_greece_and_turkey_1.png",
+            "operatorCostDates": "Gohagan - from $2,795 USD SEPT 26 - OCT 4, 2018",
+            "text1": "Cruise aboard the exclusively chartered, deluxe M.S. L’Austral, launching in 2011, from the bustling bazaars and sparkling mosques of Istanbul, across the glistening waters of the Aegean, to the mythical relics of Troy, Delos and Athens. Set your own pace by choosing from the attractively priced shore excursions in Troy and Ephesus and on Santorini, Pátmos, Rhodes and Delos. Led by a culinary expert, the exclusive “C’est Bon! Culinary Traditions” program celebrates the region’s local cuisines and wines through lectures, demonstrations, tastings and a selection of specially arranged optional shore excursions. Extend your journey with a pre-cruise option in Istanbul or Cappadocia and a post-cruise option in Athens."
+    },
+    {
+            "name": "GRAND JOURNEY AROUND THE WORLD",
+            "img1": "../images/excursions/grand_journey_around_the_world_1.png",
+            "operatorCostDates": "AHI - $29,995 USD includes Business Class air OCT 1-26, 2018",
+            "text1": "This special program provides the unique opportunity to see some of the world’s greatest sights and to immerse yourself in different cultures — a true once-in-a-lifetime experience! Begin your discovery in Japan, where you’ll visit Kyoto, Nara and Tokyo. Continue to Beijing, China, where Tian’anmen Square, the Summer Palace and the Great Wall await. Explore Thailand’s modern cities and ancient towns from your home base of Bangkok. Then head to Dubai, United Arab Emirates, to explore this modern Middle Eastern city. Journey to Cairo, Egypt, and discover the wonders of this magical land. Visit Amman and the rose-red city of Petra in Jordan. Marvel at the religious sites in Jerusalem, Israel, before concluding in the vineyards of Germany’s Rhine Valley. Your days will be filled with exciting excursions, and you will always return to luxurious accommodations. Join us for this amazing adventure Around the World!"
+    },
+    {
+            "name": "TUSCANY AND FLORENCE",
+            "img1": "../images/excursions/tuscany_and_florence_1.png",
+            "operatorCostDates": "AHI - $2,795 USD OCT 4-13, 2018",
+            "text1": "From the innovations of the Etruscans to the enlightenment of the Renaissance, Tuscany is a region steeped in history and human achievement. The charming village of Cortona will be your base as you travel through the surrounding Tuscan hill country. In Siena, visit the magnificent Duomo, and stroll the Piazza del Campo, one of the loveliest squares in Italy. In the Umbria region, explore medieval Assisi, home to the exquisite Basilica of St. Francis, and Perugia, an ancient Etruscan city-state. Journey to tiny Montepulciano, set in the heart of Chianti Country, and the delightful town of Pienza. Conclude with two nights in Florence."
+    }
+    ],
+     "adventuresomeActivity": [
+
+    {
+            "name": "AMAZON RIVER EXPEDITION",
+            "operatorCostDates": "Gohagan - from $3,880 CDN FEB 11-20, 2018 - SOLD OUT!     MAR 25 - APR 3, 2018 ADDED DEPARTURE",
+            "img1": "../images/excursions/amazon_river_expedition_1.png",
+            "text1": "Join this unforgettable 10-day journey through the mysterious Amazon River Basin, our planet’s largest rain forest, aboard one of the impeccable Jewels of the Amazon, intimate ships that evoke the 19th century’s Age of Exploration while providing 21st-century amenities. Cruise into remote jungles and black-water rivers, where the number of butterfly species climbs into the thousands, and other species have yet to be classified or even discovered. Led by Peruvian naturalists, seek rare indigenous wildlife along the Amazon’s tributaries and visit local villages. Spend one night in historic Lima, Peru. Continue with Post-Program Option to ancient Incan sites in Cuzco, the Sacred Valley and Machu Picchu."
+    },
+    {
+            "name": "CYCLING IN THE LOIRE VALLEY",
+            "img1": "../images/excursions/cycling_in_the_loire_valley_1.png",
+            "operatorCostDates": "Travel by Design – approx $2,600 CDN MAY 17-29, 2018",
+            "text1": "Join Paul Davenport, Western President Emeritus, on a cycling tour in the Loire Valley, followed by three nights in Paris, the “City of Light.” This is a trip for physically active alumni and friends who can cycle 40 km a day for three days with a day off, then three more days cycling. The terrain is relatively flat and the time on the bikes is broken up during the day, stopping for a sandwich lunch and visits to various sites. You will see some of the great Chateaux of the Loire Valley, enjoy two wine tastings in caves where the wine is stored, learn about the history and culture of Touraine and savour the food of the region."
+    },
+   {
+            "name": "CANADA’S NORTHWEST PASSAGE",
+            "img1": "../images/excursions/canadas_northwest_passage_1.png",
+            "operatorCostDates": "Worldwide Quest - from $7,395 CDN AUG 15-29 and AUG 27-SEPT 10, 2018",
+            "text1": "The North may be the defining feature of the Canadian experience. We approach the Arctic as a condition of what makes us Canadian and what shapes us as a nation, but for most of us the Arctic remains an unreachable myth. Join us for this once-in-a-life time transit through the Northwest Passage! This specially designed program brings together Canadian University alumni and friends from across the country on board our exclusively chartered polar exploration vessel. While cruising the spectacular polar scenery, we’ll learn about the geography, history  and contemporary reality of the Canadian High Arctic. Our daily excursions and enriched onboard lecture program will delve into the unique nature and culture of the North as a defining feature of the Canadian experience. For this special trip, we have created an  entire website filled with photos, detailed information, ship facts and more. Please visit www.worldwidequest.com to learn more!"
+    },
+    {
+            "name": "TREASURES OF EAST AFRICA",
+            "img1": "../images/excursions/treasures_of_east_africa_1.png",
+            "operatorCostDates": "AHI - $5,495 USD SEPT 22 - OCT 6, 2018",
+            "text1": "Safari is the Swahili word for journey. Once it was synonymous for the travels of big game hunters in search of adventure. Today, the anticipation of adventure is still there, but now the visitors are armed with cameras as they eagerly strive to catch a glimpse of the Big Five — lion, leopard, rhinoceros, Cape buffalo and elephant — in their natural habitat. Experience the thrill of an African safari on this exciting program that visits some of the best national parks in Tanzania and Kenya. Watch as zebra graze in the grassy plains; admire cheetahs walking quietly along in their search for food; marvel as colourful birds spread their wings before soaring into the sky; and see lions stretch lazily in the sun. Best of all, you will have the unbeatable highlight of staying in the finest lodge accommodations!"
+    },
+      {
+            "name": "THE ROMANCE OF INDIA",
+            "img1": "../images/excursions/the_romance_of_india_1.png",
+            "operatorCostDates": "Worldwide Quest - $4,195 CDN NOV 9-27, 2018",
+            "text1": "Join us on our exploration to a land of vibrant colours, exotic temples, desert forts and extraordinary monuments. Few destinations rouse the senses like India, where the spirituality of everyday life meets the grandest sights of architecture and scenic splendour. Take in the mythic sights of the desert kingdom of Rajasthan and the serene marvel of the Taj Mahal. Stay in carefully selected heritage properties that reveal all the pageantry and history of the land of the maharajas.  Delve into grand bazaars and shop for the finest handmade crafts. Meet community leaders at special events throughout the trip to learn about melding the traditional with the contemporary face of India. Travel by elephant, camel, jeep and  our own deluxe coach. Learn to prepare a traditional meal, how to tie a sari and a turban and how good karma can  truly shape our lives. "
+    }
+
+    ]
+}
