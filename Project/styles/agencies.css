@@ -1,0 +1,209 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    width: 100%;
+    background: #D5D4D2;
+    font-family: "Georgia", serif;
+}
+
+/*  NAVIGATION BAR  */
+
+nav {
+    position: fixed;
+    /*always on top*/
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    padding: 0px;
+    background: rgba(0, 0, 0, 1);
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+nav.black {
+    background: rgba(0, 0, 0, 1);
+    height: 70px;
+    padding: 0px 50px;
+}
+
+nav .logo {
+    padding: 22px 10px;
+    height: 70px;
+    float: left;
+    font-size: 24px;
+    font-family: fantasy;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    transition: .3s;
+}
+
+nav img {
+    float: left;
+    margin-top: 10px;
+}
+
+nav ul {
+    list-style: none;
+    float: right;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul a li {
+    list-style: none;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+nav ul a li {
+    line-height: 70px;
+    color: whitesmoke;
+    padding: 0px 30px;
+    text-decoration: none;
+    font-size: 23px;
+    text-transform: uppercase;
+    transition: .3s;
+}
+
+nav.black ul a li {
+    color: #ffffff;
+}
+
+nav ul a li:hover {
+    background: #600F0C;
+}
+
+nav ul a li:focus {
+    outline: none;
+}
+
+h1 {
+    margin-top: 75px;
+    margin-bottom: 15px;
+    padding: 0px;
+    background-color: #63377E;
+    text-align: center;
+    color: #ffffff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 22pt;
+}
+
+/* SECTION WITH CONTACTS */
+
+#contacts {
+    width: 100%;
+    height: 730px;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 0px 2px;
+    text-align: justify;
+}
+
+.container p {
+    padding: 0px 10px;
+    font-size: 14pt;
+}
+
+.container h2 {
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.orange {
+    border: 2px solid orange;
+}
+
+.green {
+    border: 2px solid green;
+}
+
+.blue {
+    border: 2px solid blue;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #63377E;
+}
+
+.container:hover .overlay {
+    opacity: 1;
+}
+
+
+.callInfo {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.callOrEmailOrWWW {
+    height: 65px;
+    width: 65px;
+}
+
+.imgGroupTourism {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+/*  FOOTER;SOCIAL MEDIA  */
+
+#footer {
+    height: 100px;
+    width: 100%;
+    background-color: #343B42;
+    color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+}
+
+#footer .copyright {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#footer a {
+    text-decoration: none;
+}
+
+#footer .socialMedia {
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    margin: 0px 5px;
+    padding: 0px;
+}

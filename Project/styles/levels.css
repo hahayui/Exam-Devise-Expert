@@ -6,41 +6,51 @@ body {
     background: #D5D4D2;
     font-family: 'Bree Serif', serif;
 }
-nav{
-    position:fixed;
-    z-index: 2;/*always on top*/
+
+/*  NAVIGATION BAR  */
+
+nav {
+    position: fixed;
+    /*always on top*/
+    z-index: 2;
     top: 0;
     left: 0;
     width: 100%;
-    height: 70px;/*100*/
+    height: 70px;
     padding: 0px;
-    background: rgba(0,0,0);
+    background: rgba(0, 0, 0);
     box-sizing: border-box;
     transition: .3s;
 }
-nav.black{
-    background: rgba(0,0,0,1);
+
+nav.black {
+    background: rgba(0, 0, 0, 1);
     height: 70px;
     padding: 0px 100px;
 }
-nav img{
+
+nav img {
     float: left;
     margin-top: 10px;
 }
-nav ul{
+
+nav ul {
     list-style: none;
     float: right;
     padding: 0;
     margin: 0;
     display: flex;
 }
-nav ul a li{
+
+nav ul a li {
     list-style: none;
 }
-nav ul a{
+
+nav ul a {
     text-decoration: none;
 }
-nav ul a li{
+
+nav ul a li {
     line-height: 70px;
     color: whitesmoke;
     padding: 0px 30px;
@@ -50,52 +60,61 @@ nav ul a li{
     transition: .3s;
 }
 
-nav.black ul a li{
+nav.black ul a li {
     color: #ffffff;
 }
 
-nav.black ul a li:hover{
+nav.black ul a li:hover {
     background: #600F0C;
 }
-nav ul a li:focus{
-    outline:none;
+
+nav ul a li:focus {
+    outline: none;
 }
 
-/* MODERATE */
-#moderate{
+/*  MODERATE SECTION  */
+
+#moderate {
     padding: 0px;
     margin-top: 70px;
     height: auto;
     width: 100%;
 }
-#moderate article{
+
+#moderate article {
     height: 750px;
-    width: 100%; /*calc(100% - 200px);*/
+    width: 100%;
+    /*calc(100% - 200px);*/
     margin-top: 0px;
     padding: 0px;
     background-color: #EF6C07;
 }
+
 #moderate .moderate_heading1 {
-    color: #ffffff;
-    background-color: #004D40;
-    font-size: 26pt;
+    color: #000000;
+    background-color: #07efb1;
+    font-size: 22pt;
     text-align: center;
     padding-left: 10px;
 
 }
+
 #moderate img {
+    /*    IN THE MIDDLE   */
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-#moderate .oCD{
+
+#moderate .oCD {
     color: #ffffff;
     margin: 10px 0px 10px 10px;
     text-align: center;
     font-size: 16pt;
     font-weight: bold;
 }
-#moderate .text{
+
+#moderate .text {
     float: left;
     color: #ffffff;
     text-align: center;
@@ -106,39 +125,46 @@ nav ul a li:focus{
 
 
 /*  MODERATELY ACTIVE SECTION  */
-#moderatelyActive{
+
+#moderatelyActive {
     padding: 0px;
     margin-top: 70px;
     height: auto;
     width: 100%;
 }
-#moderatelyActive article{
+
+#moderatelyActive article {
     height: 750px;
-    width: 100%; /*calc(100% - 200px);*/
+    width: 100%;
+    /*calc(100% - 200px);*/
     margin-top: 0px;
     padding: 0px;
-    background-color: #9ACD32;
+    background-color: #67BE28;
 }
+
 #moderatelyActive .moderate_heading1 {
     color: #ffffff;
-    background-color: #67BE28;
+    background-color: #be2867;
     font-size: 22pt;
     text-align: center;
 
 }
+
 #moderatelyActive img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-#moderatelyActive .oCD{
+
+#moderatelyActive .oCD {
     color: #ffffff;
     margin: 10px 0px 10px 10px;
     text-align: center;
     font-size: 16pt;
     font-weight: bold;
 }
-#moderatelyActive .text{
+
+#moderatelyActive .text {
     float: left;
     color: #ffffff;
     text-align: center;
@@ -146,40 +172,48 @@ nav ul a li:focus{
     font-size: 14pt;
 
 }
-/*    ADVENTURESOME     */
-#adventuresome{
+
+/*    ADVENTURESOME SECTION */
+
+#adventuresome {
     padding: 0px;
     margin-top: 70px;
     height: auto;
     width: 100%;
 }
-#adventuresome article{
+
+#adventuresome article {
     height: 750px;
-    width: 100%; /*calc(100% - 200px);*/
+    width: 100%;
+    /*calc(100% - 200px);*/
     margin-top: 0px;
     padding: 0px;
-    background-color: #536DFE;
+    background-color: #3F51B5;
 }
+
 #adventuresome .moderate_heading1 {
     color: #ffffff;
-    background-color: #3F51B5;
+    background-color: #b5763f;
     font-size: 22pt;
     text-align: center;
 
 }
+
 #adventuresome img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-#adventuresome .oCD{
+
+#adventuresome .oCD {
     color: #ffffff;
     margin: 10px 0px 10px 10px;
     text-align: center;
     font-size: 16pt;
     font-weight: bold;
 }
-#adventuresome .text{
+
+#adventuresome .text {
     float: left;
     color: #ffffff;
     text-align: center;
@@ -198,6 +232,7 @@ nav ul a li:focus{
     margin: 0px;
     padding: 0px;
 }
+
 #footer .copyright {
     text-align: center;
     padding-top: 20px;
