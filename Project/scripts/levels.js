@@ -27,8 +27,7 @@ $("nav ul a[href^='#']").on('click', function (e) {
     var section1 = document.querySelector('#moderate');
     var section2=document.querySelector('#moderatelyActive');
     var section3=document.querySelector('#adventuresome');
-
-    var requestURL = 'excursions.json';
+    var requestURL = 'https://api.myjson.com/bins/v07e9'; //'../scripts/excursions.json'; - NOT WORKING ON ALL BROWSERS
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = 'json';
