@@ -1,4 +1,6 @@
-$(document).ready(function () {
+//NAVBAR SCRIPT ON SCROLLING
+
+}$(document).ready(function () {
 
 
  $(window).on('scroll', function () {
@@ -11,3 +13,4 @@ $(document).ready(function () {
 })
 
 });
+
