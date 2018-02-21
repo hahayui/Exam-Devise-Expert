@@ -1,4 +1,4 @@
-$$(document).ready(function () {
+$(document).ready(function () {
 
     $(window).on('scroll', function () {
         if ($(window).scrollTop()) {
@@ -8,6 +8,16 @@ $$(document).ready(function () {
             $('nav').removeClass('black');
         }
     })
+
+    $("nav a[href^='#']").on('click', function (e) {
+        e.preventDefault();
+        $('html, body').animate({
+                scrollTop: $(this.hash).offset().top - 70
+            },
+            400,
+            function () {});
+    });
+
     /* NOT WORKING
     var pictures = ['banner_1.png', 'banner_2.png'];
     var index = 0;
